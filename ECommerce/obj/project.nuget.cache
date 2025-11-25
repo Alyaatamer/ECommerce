@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pzZlgJYZJy8=",
+  "dgSpecHash": "H0SpNLWeDUY=",
   "success": true,
-  "projectFilePath": "F:\\ECommerce\\ECommerce\\ECommerce.Web.csproj",
+  "projectFilePath": "F:\\ECommerce\\ECommerce\\ECommerce\\ECommerce.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alyaa\\.nuget\\packages\\automapper\\15.1.0\\automapper.15.1.0.nupkg.sha512",
     "C:\\Users\\alyaa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

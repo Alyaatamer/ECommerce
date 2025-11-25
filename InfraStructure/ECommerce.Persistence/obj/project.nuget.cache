@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fNQOEIcXY9o=",
+  "dgSpecHash": "NtLweWeFb+A=",
   "success": true,
-  "projectFilePath": "F:\\ECommerce\\InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj",
+  "projectFilePath": "F:\\ECommerce\\ECommerce\\InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alyaa\\.nuget\\packages\\automapper\\15.1.0\\automapper.15.1.0.nupkg.sha512",
     "C:\\Users\\alyaa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

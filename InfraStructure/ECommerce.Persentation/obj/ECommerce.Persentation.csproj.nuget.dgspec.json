@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj": {}
+    "F:\\ECommerce\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj": {}
   },
   "projects": {
-    "F:\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj": {
+    "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj",
+        "projectUniqueName": "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj",
         "projectName": "ECommerce.Abstraction",
-        "projectPath": "F:\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj",
+        "projectPath": "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj",
         "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
-        "outputPath": "F:\\ECommerce\\Core\\ECommerce.Abstraction\\obj\\",
+        "outputPath": "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "F:\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
-                "projectPath": "F:\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj"
+              "F:\\ECommerce\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
+                "projectPath": "F:\\ECommerce\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "F:\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
+    "F:\\ECommerce\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj",
+        "projectUniqueName": "F:\\ECommerce\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj",
         "projectName": "ECommerce.Shared",
-        "projectPath": "F:\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj",
+        "projectPath": "F:\\ECommerce\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj",
         "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
-        "outputPath": "F:\\ECommerce\\ECommerce.Shared\\obj\\",
+        "outputPath": "F:\\ECommerce\\ECommerce\\ECommerce.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -152,14 +152,14 @@
         }
       }
     },
-    "F:\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj": {
+    "F:\\ECommerce\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj",
+        "projectUniqueName": "F:\\ECommerce\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj",
         "projectName": "ECommerce.Persentation",
-        "projectPath": "F:\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj",
+        "projectPath": "F:\\ECommerce\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj",
         "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
-        "outputPath": "F:\\ECommerce\\InfraStructure\\ECommerce.Persentation\\obj\\",
+        "outputPath": "F:\\ECommerce\\ECommerce\\InfraStructure\\ECommerce.Persentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -181,8 +181,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "F:\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj": {
-                "projectPath": "F:\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj"
+              "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj": {
+                "projectPath": "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj"
               }
             }
           }

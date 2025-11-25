@@ -2926,11 +2926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ECommerce\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj",
+      "projectUniqueName": "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj",
       "projectName": "ECommerce.Domain",
-      "projectPath": "F:\\ECommerce\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj",
+      "projectPath": "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj",
       "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
-      "outputPath": "F:\\ECommerce\\Core\\ECommerce.Domain\\obj\\",
+      "outputPath": "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -2677,11 +2677,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ECommerce\\Core\\ECommerce.Service\\ECommerce.Service.csproj",
+      "projectUniqueName": "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Service\\ECommerce.Service.csproj",
       "projectName": "ECommerce.Service",
-      "projectPath": "F:\\ECommerce\\Core\\ECommerce.Service\\ECommerce.Service.csproj",
+      "projectPath": "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Service\\ECommerce.Service.csproj",
       "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
-      "outputPath": "F:\\ECommerce\\Core\\ECommerce.Service\\obj\\",
+      "outputPath": "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2703,11 +2703,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "F:\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj": {
-              "projectPath": "F:\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj"
+            "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj": {
+              "projectPath": "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj"
             },
-            "F:\\ECommerce\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj": {
-              "projectPath": "F:\\ECommerce\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj"
+            "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj": {
+              "projectPath": "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj"
             }
           }
         }

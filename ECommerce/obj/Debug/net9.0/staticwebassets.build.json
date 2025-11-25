@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kSFHO9CmM27E5dQhVJLmoZmXehiirzvoiEmcx8h3uQs=",
+  "Hash": "+pDVNw04Yl6pQzJBGfd66xN9o/NfFKJ3yDN07odtia8=",
   "Source": "ECommerce.Web",
   "BasePath": "_content/ECommerce.Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ECommerce.Web\\wwwroot",
       "Source": "ECommerce.Web",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CheesyVegetableLasagna.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CheesyVegetableLasagna.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/CheesyVegetableLasagna#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\CheesyVegetableLasagna.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenMarsala.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenMarsala.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/ChickenMarsala#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\ChickenMarsala.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTeriyakiNoodles.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTeriyakiNoodles.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/ChickenTeriyakiNoodles#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\ChickenTeriyakiNoodles.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTikkaMasala.jpg",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTikkaMasala.jpg",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/ChickenTikkaMasala#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\ChickenTikkaMasala.jpg"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Congee.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Congee.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/Congee#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\Congee.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CreamyGochujangTortellini.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CreamyGochujangTortellini.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/CreamyGochujangTortellini#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\CreamyGochujangTortellini.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CrispyVegetablePakoras.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CrispyVegetablePakoras.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/CrispyVegetablePakoras#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\CrispyVegetablePakoras.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HaluskiNoodles.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HaluskiNoodles.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/HaluskiNoodles#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\HaluskiNoodles.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HeartyVegetableLasagna.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HeartyVegetableLasagna.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/HeartyVegetableLasagna#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\HeartyVegetableLasagna.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianChickenMarinade.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianChickenMarinade.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/ItalianChickenMarinade#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\ItalianChickenMarinade.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianWeddingSoup.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianWeddingSoup.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/ItalianWeddingSoup#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\ItalianWeddingSoup.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Kulfi.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Kulfi.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/Kulfi#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\Kulfi.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PastaSalad.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PastaSalad.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/PastaSalad#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\PastaSalad.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PepperPasta.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PepperPasta.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/PepperPasta#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\PepperPasta.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ShrimpEggFooYoung.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ShrimpEggFooYoung.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/ShrimpEggFooYoung#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\ShrimpEggFooYoung.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\TandooriChicken.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\TandooriChicken.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/TandooriChicken#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\TandooriChicken.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianKorma.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianKorma.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/VegetarianKorma#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\VegetarianKorma.png"
     },
     {
-      "Identity": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianRefriedBeans.png",
+      "Identity": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianRefriedBeans.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ECommerce\\ECommerce\\wwwroot\\",
+      "ContentRoot": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "images/Products/VegetarianRefriedBeans#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -398,7 +398,7 @@
   "Endpoints": [
     {
       "Route": "images/Products/CheesyVegetableLasagna.277d94tvkp.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CheesyVegetableLasagna.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CheesyVegetableLasagna.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -443,7 +443,7 @@
     },
     {
       "Route": "images/Products/CheesyVegetableLasagna.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CheesyVegetableLasagna.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CheesyVegetableLasagna.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -480,7 +480,7 @@
     },
     {
       "Route": "images/Products/ChickenMarsala.j9gf2gpbng.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenMarsala.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenMarsala.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -525,7 +525,7 @@
     },
     {
       "Route": "images/Products/ChickenMarsala.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenMarsala.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenMarsala.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -562,7 +562,7 @@
     },
     {
       "Route": "images/Products/ChickenTeriyakiNoodles.1r1eq4pg3a.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTeriyakiNoodles.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTeriyakiNoodles.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -607,7 +607,7 @@
     },
     {
       "Route": "images/Products/ChickenTeriyakiNoodles.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTeriyakiNoodles.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTeriyakiNoodles.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -644,7 +644,7 @@
     },
     {
       "Route": "images/Products/ChickenTikkaMasala.jpg",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTikkaMasala.jpg",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTikkaMasala.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -681,7 +681,7 @@
     },
     {
       "Route": "images/Products/ChickenTikkaMasala.xurfn7rtfc.jpg",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTikkaMasala.jpg",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTikkaMasala.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -726,7 +726,7 @@
     },
     {
       "Route": "images/Products/Congee.6obkfgjvl3.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Congee.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Congee.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -771,7 +771,7 @@
     },
     {
       "Route": "images/Products/Congee.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Congee.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Congee.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -808,7 +808,7 @@
     },
     {
       "Route": "images/Products/CreamyGochujangTortellini.m6v6958kfh.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CreamyGochujangTortellini.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CreamyGochujangTortellini.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -853,7 +853,7 @@
     },
     {
       "Route": "images/Products/CreamyGochujangTortellini.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CreamyGochujangTortellini.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CreamyGochujangTortellini.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -890,7 +890,7 @@
     },
     {
       "Route": "images/Products/CrispyVegetablePakoras.orbj85bm9q.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CrispyVegetablePakoras.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CrispyVegetablePakoras.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -935,7 +935,7 @@
     },
     {
       "Route": "images/Products/CrispyVegetablePakoras.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CrispyVegetablePakoras.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CrispyVegetablePakoras.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -972,7 +972,7 @@
     },
     {
       "Route": "images/Products/HaluskiNoodles.5p0dqi4iia.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HaluskiNoodles.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HaluskiNoodles.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1017,7 +1017,7 @@
     },
     {
       "Route": "images/Products/HaluskiNoodles.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HaluskiNoodles.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HaluskiNoodles.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1054,7 +1054,7 @@
     },
     {
       "Route": "images/Products/HeartyVegetableLasagna.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HeartyVegetableLasagna.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HeartyVegetableLasagna.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1091,7 +1091,7 @@
     },
     {
       "Route": "images/Products/HeartyVegetableLasagna.rahc9pxo20.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HeartyVegetableLasagna.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HeartyVegetableLasagna.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1136,7 +1136,7 @@
     },
     {
       "Route": "images/Products/ItalianChickenMarinade.e7i10m8tk3.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianChickenMarinade.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianChickenMarinade.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1181,7 +1181,7 @@
     },
     {
       "Route": "images/Products/ItalianChickenMarinade.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianChickenMarinade.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianChickenMarinade.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1218,7 +1218,7 @@
     },
     {
       "Route": "images/Products/ItalianWeddingSoup.8o31o71bw8.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianWeddingSoup.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianWeddingSoup.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1263,7 +1263,7 @@
     },
     {
       "Route": "images/Products/ItalianWeddingSoup.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianWeddingSoup.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianWeddingSoup.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1300,7 +1300,7 @@
     },
     {
       "Route": "images/Products/Kulfi.fyiuz6ago0.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Kulfi.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Kulfi.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1345,7 +1345,7 @@
     },
     {
       "Route": "images/Products/Kulfi.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Kulfi.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Kulfi.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1382,7 +1382,7 @@
     },
     {
       "Route": "images/Products/PastaSalad.2qlcafpc0n.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PastaSalad.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PastaSalad.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1427,7 +1427,7 @@
     },
     {
       "Route": "images/Products/PastaSalad.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PastaSalad.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PastaSalad.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1464,7 +1464,7 @@
     },
     {
       "Route": "images/Products/PepperPasta.kg3z3o7bg8.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PepperPasta.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PepperPasta.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1509,7 +1509,7 @@
     },
     {
       "Route": "images/Products/PepperPasta.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PepperPasta.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PepperPasta.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1546,7 +1546,7 @@
     },
     {
       "Route": "images/Products/ShrimpEggFooYoung.msr8fm8kz0.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ShrimpEggFooYoung.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ShrimpEggFooYoung.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1591,7 +1591,7 @@
     },
     {
       "Route": "images/Products/ShrimpEggFooYoung.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ShrimpEggFooYoung.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ShrimpEggFooYoung.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1628,7 +1628,7 @@
     },
     {
       "Route": "images/Products/TandooriChicken.0akmarr0bz.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\TandooriChicken.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\TandooriChicken.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1673,7 +1673,7 @@
     },
     {
       "Route": "images/Products/TandooriChicken.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\TandooriChicken.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\TandooriChicken.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1710,7 +1710,7 @@
     },
     {
       "Route": "images/Products/VegetarianKorma.7n9bvio4t8.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianKorma.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianKorma.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1755,7 +1755,7 @@
     },
     {
       "Route": "images/Products/VegetarianKorma.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianKorma.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianKorma.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1792,7 +1792,7 @@
     },
     {
       "Route": "images/Products/VegetarianRefriedBeans.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianRefriedBeans.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianRefriedBeans.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1829,7 +1829,7 @@
     },
     {
       "Route": "images/Products/VegetarianRefriedBeans.uazi5tssqj.png",
-      "AssetFile": "F:\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianRefriedBeans.png",
+      "AssetFile": "F:\\ECommerce\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianRefriedBeans.png",
       "Selectors": [],
       "ResponseHeaders": [
         {

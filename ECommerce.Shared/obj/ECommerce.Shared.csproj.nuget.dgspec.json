@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {}
+    "F:\\ECommerce\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {}
   },
   "projects": {
-    "F:\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
+    "F:\\ECommerce\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj",
+        "projectUniqueName": "F:\\ECommerce\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj",
         "projectName": "ECommerce.Shared",
-        "projectPath": "F:\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj",
+        "projectPath": "F:\\ECommerce\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj",
         "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
-        "outputPath": "F:\\ECommerce\\ECommerce.Shared\\obj\\",
+        "outputPath": "F:\\ECommerce\\ECommerce\\ECommerce.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

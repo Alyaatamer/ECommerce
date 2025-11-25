@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\ECommerce\\",
+  "WorkspaceRootPath": "F:\\ECommerce\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|f:\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|f:\\ecommerce\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\ECommerce\\ECommerce\\Program.cs",
+              "DocumentMoniker": "F:\\ECommerce\\ECommerce\\ECommerce\\Program.cs",
               "RelativeDocumentMoniker": "ECommerce\\Program.cs",
-              "ToolTip": "F:\\ECommerce\\ECommerce\\Program.cs",
+              "ToolTip": "F:\\ECommerce\\ECommerce\\ECommerce\\Program.cs",
               "RelativeToolTip": "ECommerce\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

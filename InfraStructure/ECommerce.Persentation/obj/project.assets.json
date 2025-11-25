@@ -2790,11 +2790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj",
+      "projectUniqueName": "F:\\ECommerce\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj",
       "projectName": "ECommerce.Persentation",
-      "projectPath": "F:\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj",
+      "projectPath": "F:\\ECommerce\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj",
       "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
-      "outputPath": "F:\\ECommerce\\InfraStructure\\ECommerce.Persentation\\obj\\",
+      "outputPath": "F:\\ECommerce\\ECommerce\\InfraStructure\\ECommerce.Persentation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2816,8 +2816,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "F:\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj": {
-              "projectPath": "F:\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj"
+            "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj": {
+              "projectPath": "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj"
             }
           }
         }

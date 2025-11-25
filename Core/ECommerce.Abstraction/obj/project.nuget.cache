@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3zN/7GYT/oY=",
+  "dgSpecHash": "OQXFCWTxOSA=",
   "success": true,
-  "projectFilePath": "F:\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj",
+  "projectFilePath": "F:\\ECommerce\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alyaa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\alyaa\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
