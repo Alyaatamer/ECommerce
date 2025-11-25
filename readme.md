@@ -1,4 +1,4 @@
-# 🛒 ECommerce API
+# ECommerce API
 
 [![.NET 9](https://img.shields.io/badge/.NET-9.0-512BD4.svg)](https://dotnet.microsoft.com/)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
