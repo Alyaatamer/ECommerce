@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "F:\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|f:\\ecommerce\\ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|solutionrelative:ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|f:\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 404,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,27 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\ECommerce\\ECommerce\\Program.cs",
               "RelativeDocumentMoniker": "ECommerce\\Program.cs",
               "ToolTip": "F:\\ECommerce\\ECommerce\\Program.cs",
               "RelativeToolTip": "ECommerce\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwCwAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAgwIcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:59:48.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\ECommerce\\ECommerce\\appsettings.json",
-              "RelativeDocumentMoniker": "ECommerce\\appsettings.json",
-              "ToolTip": "F:\\ECommerce\\ECommerce\\appsettings.json*",
-              "RelativeToolTip": "ECommerce\\appsettings.json*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-25T12:59:25.901Z",
+              "WhenOpened": "2025-11-25T13:27:37.221Z",
               "EditorCaption": ""
             }
           ]

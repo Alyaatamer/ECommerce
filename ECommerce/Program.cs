@@ -20,6 +20,7 @@ using Microsoft.IdentityModel.Tokens;
 using StackExchange.Redis;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
+using System.Reflection;
 
 namespace ECommerce
 {
@@ -32,8 +33,8 @@ namespace ECommerce
             // Add services to the container.
 
             builder.Services.AddControllers();
-            // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-            builder.Services.AddOpenApi();
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen();
 
             #region Database
             builder.Services.AddDbContext<StoreDbContext>(options =>
@@ -58,9 +59,9 @@ namespace ECommerce
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             builder.Services.AddScoped<IServicesManger, ServicesManger>();
             builder.Services.AddScoped<IBasketReposatory, BasketReposatory>();
-            #endregion
             builder.Services.AddScoped<ICacheRepository, CacheRepository>();
-            builder.Services.AddScoped<ICacheServices,CacheServices>();
+            builder.Services.AddScoped<ICacheServices, CacheServices>();
+            #endregion
 
             builder.Services.AddAutoMapper(m => m.AddProfile(new ProjectProfile(builder.Configuration)));
 
@@ -124,8 +125,15 @@ namespace ECommerce
 
             app.UseStaticFiles();
 
-            app.MapControllers();
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "ECommerce API V1");
+            });
 
+            
+            app.MapControllers();
+           
             app.Run();
         }
     }

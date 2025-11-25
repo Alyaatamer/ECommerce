@@ -183,8 +183,8 @@ F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Stripe.net.dll
 F:\ECommerce\ECommerce\bin\Debug\net9.0\appsettings.Development.json
 F:\ECommerce\ECommerce\bin\Debug\net9.0\appsettings.json
-F:\ECommerce\ECommerce\bin\Debug\net9.0\ECommerce.Web.staticwebassets.endpoints.json
 F:\ECommerce\ECommerce\bin\Debug\net9.0\ECommerce.Web.staticwebassets.runtime.json
+F:\ECommerce\ECommerce\bin\Debug\net9.0\ECommerce.Web.staticwebassets.endpoints.json
 F:\ECommerce\ECommerce\bin\Debug\net9.0\ECommerce.Web.exe
 F:\ECommerce\ECommerce\bin\Debug\net9.0\ECommerce.Web.deps.json
 F:\ECommerce\ECommerce\bin\Debug\net9.0\ECommerce.Web.runtimeconfig.json
@@ -241,6 +241,9 @@ F:\ECommerce\ECommerce\bin\Debug\net9.0\Newtonsoft.Json.dll
 F:\ECommerce\ECommerce\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
 F:\ECommerce\ECommerce\bin\Debug\net9.0\StackExchange.Redis.dll
 F:\ECommerce\ECommerce\bin\Debug\net9.0\Stripe.net.dll
+F:\ECommerce\ECommerce\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ECommerce\ECommerce\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ECommerce\ECommerce\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 F:\ECommerce\ECommerce\bin\Debug\net9.0\System.ClientModel.dll
 F:\ECommerce\ECommerce\bin\Debug\net9.0\System.CodeDom.dll
 F:\ECommerce\ECommerce\bin\Debug\net9.0\System.Composition.AttributedModel.dll
@@ -356,10 +359,10 @@ F:\ECommerce\ECommerce\obj\Debug\net9.0\staticwebassets\msbuild.build.ECommerce.
 F:\ECommerce\ECommerce\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ECommerce.Web.props
 F:\ECommerce\ECommerce\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ECommerce.Web.props
 F:\ECommerce\ECommerce\obj\Debug\net9.0\staticwebassets.pack.json
-F:\ECommerce\ECommerce\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 F:\ECommerce\ECommerce\obj\Debug\net9.0\ECommerc.89E24D4D.Up2Date
 F:\ECommerce\ECommerce\obj\Debug\net9.0\ECommerce.Web.dll
 F:\ECommerce\ECommerce\obj\Debug\net9.0\refint\ECommerce.Web.dll
 F:\ECommerce\ECommerce\obj\Debug\net9.0\ECommerce.Web.pdb
 F:\ECommerce\ECommerce\obj\Debug\net9.0\ECommerce.Web.genruntimeconfig.cache
 F:\ECommerce\ECommerce\obj\Debug\net9.0\ref\ECommerce.Web.dll
+F:\ECommerce\ECommerce\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
