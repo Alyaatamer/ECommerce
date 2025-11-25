@@ -1,0 +1,39 @@
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Service.deps.json
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Service.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Service.pdb
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Abstraction.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Domain.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Shared.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Abstraction.pdb
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Domain.pdb
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Shared.pdb
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.csproj.AssemblyReference.cache
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.AssemblyInfoInputs.cache
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.AssemblyInfo.cs
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.csproj.CoreCompileInputs.cache
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.sourcelink.json
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerc.C6EF674E.Up2Date
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\refint\ECommerce.Service.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.pdb
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ref\ECommerce.Service.dll
+F:\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Service.deps.json
+F:\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Service.dll
+F:\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Service.pdb
+F:\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Abstraction.dll
+F:\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Domain.dll
+F:\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Shared.dll
+F:\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Abstraction.pdb
+F:\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Domain.pdb
+F:\ECommerce\Core\ECommerce.Service\bin\Debug\net9.0\ECommerce.Shared.pdb
+F:\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.csproj.AssemblyReference.cache
+F:\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.AssemblyInfoInputs.cache
+F:\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.AssemblyInfo.cs
+F:\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.csproj.CoreCompileInputs.cache
+F:\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerc.C6EF674E.Up2Date
+F:\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.dll
+F:\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\refint\ECommerce.Service.dll
+F:\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.pdb
+F:\ECommerce\Core\ECommerce.Service\obj\Debug\net9.0\ref\ECommerce.Service.dll
